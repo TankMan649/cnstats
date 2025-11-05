@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-05T02:02:13.841941",
+  "total_entries": 181692,
+  "total_indicators": 588,
+  "total_regions": 31,
+  "total_cities": 71,
+  "total_databases": 9,
+  "by_scope": {
+    "national": 1764,
+    "provincial": 54684,
+    "city": 125244
+  },
+  "by_frequency": {
+    "monthly": 60564,
+    "quarterly": 60564,
+    "annual": 60564
+  }
+}

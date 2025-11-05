@@ -2,4 +2,4 @@ venv
 dist
 __pycache__
 *.egg-info
-/build/
+/build/master_variables_list.json
